@@ -1,3 +1,5 @@
+# This is a fork of the original plugin to avoid using context when calling getString(). FlutterLocalizationTranslator is a singleton anyway so I didn't see the reason to use context. 
+
 # Flutter Localization
 
 Flutter Localization is a package use for in-app localization with Map data. Easier and faster to implement. This
